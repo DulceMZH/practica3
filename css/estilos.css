@@ -1,0 +1,17 @@
+
+.contenedor a{/*selector combinado*/
+    text-decoration: none;/*elimina el subrayado*/
+    color: green; font-weight: bold;/*negritas*/
+    font-size: 20px;}/*tamaño*/
+
+h2{/*selector de tipo*/
+    color: goldenrod;}
+
+p{font-size: 18px; color: indigo;}
+
+h3{color: palevioletred; 
+    text-align: center;}/*centrar texto*/
+
+.contenedor2 p{color: chocolate;}
+
+.contenedor2 a{color: rgb(218, 16, 76); text-decoration: none;}
